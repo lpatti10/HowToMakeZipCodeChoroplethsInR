@@ -1,6 +1,7 @@
 # How to Make Zip Choropleths in R
 Brad Dixon  
-October 7th, 2014  
+October 7th, 2014
+https://choropleths-r.herokuapp.com/
 
 
 ## Setup
